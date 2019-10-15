@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5a60c019afb51d69279a52cc"},"id":"a77ws","metaInfo":{"title":"","description":""},"chartData":{"shape":"circle","lanes":2,"colorTags":[{"color":"red","tag":"Sleep"},{"color":"gray","tag":"Activities"}],"elements":[{"id":1,"start":1150,"end":1250,"color":"red","text":"","lane":1}]},"__v":0}

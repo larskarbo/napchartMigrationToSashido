@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"napchart.charts"}],"uuid":"427ebb7778304c1dbe0b815471d8c3da"}

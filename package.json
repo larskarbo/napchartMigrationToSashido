@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "line-by-line": "^0.1.6",
+    "parse": "^2.7.1"
+  },
+  "name": "tempyeah",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
